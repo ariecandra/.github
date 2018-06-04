@@ -1,0 +1,112 @@
+.dpDiv {
+	}
+
+
+.dpTable {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	color: #505050;
+	background-color: #ece9d8;
+	border: 1px solid #AAAAAA;
+	}
+
+
+.dpTR {
+	}
+
+
+.dpTitleTR {
+	}
+
+
+.dpDayTR {
+	background: #333;
+	}
+
+
+.dpTodayButtonTR {
+	}
+
+
+.dpTD {
+	border: 1px solid #ece9d8;
+	color: #333;
+	}
+
+
+.dpDayHighlightTD {
+	background-color: #CCCCCC;
+	border: 1px solid #AAAAAA;
+	color: #000;
+	}
+
+
+.dpTDHover {
+	background-color: #aca998;
+	border: 1px solid #888888;
+	cursor: pointer;
+	color: #F00;
+	}
+
+
+.dpTitleTD {
+	}
+
+
+.dpButtonTD {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333;
+	background: #fff;
+	font-weight: normal;
+	padding: 3px;
+	border: 1px solid #fff;	
+	}
+
+
+.dpTodayButtonTD {
+	
+	}
+
+
+.dpDayTD {
+	color: #FFF;
+}
+
+
+.dpTitleText {
+	font-size: 12px;
+	color: gray;
+	font-weight: bold;
+	}
+
+
+.dpDayHighlight {
+	color: 4060ff;
+	font-weight: bold;
+	}
+
+
+.dpButton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333;
+	background: #fff;
+	font-weight: normal;
+	padding: 3px;
+	border: 1px solid #fff;
+        font-weight: bold;
+	cursor: pointer;
+}
+.dpTodayButton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333;
+	background: #fff;
+	font-weight: normal;
+	padding: 3px;
+	border: 1px solid #fff;
+        font-weight: bold;
+	cursor: pointer;
+	}
